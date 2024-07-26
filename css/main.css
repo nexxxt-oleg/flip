@@ -2468,8 +2468,23 @@ ul.ul-prim li::after {
     background-image: url('../img/bloknot/blok1_bg.jpg');
     padding-bottom: 80px;
 }
-
-
+.bloknot-format {
+    padding-bottom: 30px;
+}
+.bloknot-format__img {
+    display: flex;
+    justify-content: center;
+}
+.bloknot-format__caption {
+    min-height: 70px;
+    text-align: center;
+    font: 400 16px / 1.5 "Montserrat", sans-serif;
+    color: #333;
+}
+.fs-16 {
+    font: 400 16px / 1.5 "Montserrat", sans-serif;
+    color: #333;
+}
 
 
 
@@ -2571,7 +2586,7 @@ ul.ul-prim li::after {
         justify-content: center;
     }
     .bnt_links a {
-        
+
         height: auto;
         line-height: 20px;
         padding-top: 8px;
