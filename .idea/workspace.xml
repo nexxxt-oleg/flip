@@ -5,18 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e645ee04-1b66-4bea-bf17-ceddaf186dc7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/holst.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holst/holst1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holst/holst2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holst/holst3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holst/holst4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holst/holst5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holst/holst6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holst/holst_001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holst/holst_002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holst/holst_003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holst/holst_004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holst/holst_005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/v1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/v2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/v3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/v4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/v5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/v6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/v7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/v8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/v9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/vizit1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/vizit2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/vv1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/vv2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/vv3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/vv4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/vv5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vizitka/vv6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vizitka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,23 +46,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "F:/OS6/OSPanel/home/flip.loc/img/holst",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "ssh.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/OS6/OSPanel/home/flip.loc/img/vizitka&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ssh.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\OS6\OSPanel\home\flip.loc\img\vizitka" />
+      <recent name="F:\OS6\OSPanel\home\flip.loc" />
       <recent name="F:\OS6\OSPanel\home\flip.loc\img\holst" />
       <recent name="F:\OS6\OSPanel\home\flip.loc\img\bloknot" />
     </key>
@@ -70,7 +79,9 @@
       <updated>1721974693833</updated>
       <workItem from="1721974694831" duration="57000" />
       <workItem from="1721975074309" duration="3278000" />
-      <workItem from="1722233694415" duration="2501000" />
+      <workItem from="1722233694415" duration="2800000" />
+      <workItem from="1722253082668" duration="3030000" />
+      <workItem from="1722256159600" duration="337000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <created>1721978317724</created>
@@ -79,14 +90,24 @@
       <option name="project" value="LOCAL" />
       <updated>1721978317724</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="13">
+      <created>1722236274158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722236274158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="12" />
-    <option name="LAST_COMMIT_MESSAGE" value="12" />
+    <MESSAGE value="13" />
+    <option name="LAST_COMMIT_MESSAGE" value="13" />
   </component>
 </project>
