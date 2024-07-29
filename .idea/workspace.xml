@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e645ee04-1b66-4bea-bf17-ceddaf186dc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/holst.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/holst/holst1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/holst/holst2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/holst/holst3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/holst/holst4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/holst/holst5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/holst/holst6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/holst/holst_001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/holst/holst_002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/holst/holst_003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/holst/holst_004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/holst/holst_005.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2jlvtg8idEHWbMCRtTYrCvwwp5L" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "F:/OS6/OSPanel/home/flip.loc/img/holst",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ssh.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\OS6\OSPanel\home\flip.loc\img\holst" />
+      <recent name="F:\OS6\OSPanel\home\flip.loc\img\bloknot" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e645ee04-1b66-4bea-bf17-ceddaf186dc7" name="Changes" comment="" />
+      <created>1721974693833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721974693833</updated>
+      <workItem from="1721974694831" duration="57000" />
+      <workItem from="1721975074309" duration="3278000" />
+      <workItem from="1722233694415" duration="2501000" />
+    </task>
+    <task id="LOCAL-00001" summary="12">
+      <created>1721978317724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721978317724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12" />
+  </component>
+</project>

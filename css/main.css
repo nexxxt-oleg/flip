@@ -2482,11 +2482,18 @@ ul.ul-prim li::after {
     color: #333;
 }
 .fs-16 {
-    font: 400 16px / 1.5 "Montserrat", sans-serif;
+    font: 16px / 1.5 "Montserrat", sans-serif;
     color: #333;
 }
-
-
+.fs-18 {
+    font: 18px / 1.5 "Montserrat", sans-serif;
+    color: #333;
+}
+h3.fs-18,
+h3.fs-16 {
+    font-weight: 700;
+    margin-bottom: 10px;
+}
 
 
 @media (min-width: 768px) {
@@ -2567,12 +2574,18 @@ ul.ul-prim li::after {
         border-left: 2px solid #B3B3B3;
         border-bottom: 2px solid #fff;
     }
+    .stiker-banner h1 {
+        font-size: 30px;
+    }
 }
 
 
 @media (max-width: 768px) {
     .print__navigation__mob-footer {
         display: block;
+    }
+    .slider-gallery .sl-nav {
+        top: 50%;
     }
     .stiker-banner .btn {
         width: 100%;
